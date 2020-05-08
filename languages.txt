@@ -1,3 +1,4 @@
+typescript
 java
 kotlin
 scala
